@@ -1,0 +1,4 @@
+id,name,email,username,email_verified_at,password,remember_token,created_at,updated_at
+1,aa,lasting.guilty1108@gmail.com,aaa,,$2y$10$kRSWjJuUPU.ZKg/vH1PdzeCa4bAsI5qLmqYPj3S4D8IGWZVaSm.D2,,2020-01-28 12:21:54,2020-01-28 12:21:54
+2,yu,yu@gmail.com,uyu,,$2y$10$q1O5I2dLODnjoaz0d0P6k.ZPjfG1XkepneCGhUMJZFt81LS2XB4LK,,2020-01-28 12:42:23,2020-01-28 12:42:23
+3,aa,aa@gmail.com,11,,$2y$10$nh1KWl5CgFc/WfQpKRjyCejOZsJPCYmjQh1pj0P7ppSv1cYO1c3a.,,2020-01-29 00:44:56,2020-01-29 00:44:56
